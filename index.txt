@@ -1,7 +1,13 @@
 hi i am imtiaj
 i am student
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi(text from branch2)
 =======
 hi(text added from master)
 >>>>>>> a78c7406e7f781b973ca833c8ecb1cefe7ca5ee7
+=======
+
+hi(text from branch2)(text added from master)
+
+>>>>>>> b529538b84865024b110377a34bb96d121e803d5
