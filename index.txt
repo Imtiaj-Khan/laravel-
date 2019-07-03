@@ -1,3 +1,5 @@
 hi i am imtiaj
 i am student
-hi(text added from master)
+
+hi(text from branch2)(text added from master)
+
